@@ -3,12 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/acrcomments.iml" filepath="$PROJECT_DIR$/.idea/acrcomments.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comment-service.iml" filepath="$PROJECT_DIR$/.idea/modules/comment-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comment-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/comment-service.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comment-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/comment-service.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moderation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/moderation-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moderation-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/moderation-service.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moderation-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/moderation-service.test.iml" />
     </modules>
   </component>
 </project>
